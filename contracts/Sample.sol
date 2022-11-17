@@ -1,4 +1,3 @@
-// contracts/Box.sol
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -21,8 +20,6 @@ contract Sample {
         return (fav_num);
     }
 
-    // event for EVM logging
-
     // modifier to check if caller is owner
     modifier isOwner() {
         require(msg.sender == owner, "Caller is not the owner");
@@ -40,10 +37,6 @@ contract Sample {
         );
     }
 
-    // function withdraw(uint256 _amount) public payable isOwner {
-    //     payable(owner).transfer(_amount);
-    //     // require(success, "Transfer Failed");
-    // }
     function withdraw(uint _amount) public payable {
         // users can only withdraw .1 ETH at a time, feel free to change this!
         require(_amount <= 100000000000000000);

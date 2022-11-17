@@ -1,5 +1,5 @@
-const { ethers, deployments } = require("hardhat");
-const { assert, expect } = require("chai");
+const { ethers } = require("hardhat");
+const { expect } = require("chai");
 
 describe("Sample", async function () {
   let sample;
