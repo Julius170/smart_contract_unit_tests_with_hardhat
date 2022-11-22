@@ -43,8 +43,7 @@ Hardhat also comes with an inbuilt coverage functionality that runs a tabular re
 
 But in this tutorial, you’ll learn how to create your unit tests to suit your smart contract. Next, you need to create your contract.
 
-***Note: Here is a [link](https://medium.com/coinmonks/smart-contract-code-coverage-in-hardhat-d4a5ff6c9ba6) to a more extensive read on hardhat coverage***.
-
+***Note: Here is a [link](https://medium.com/coinmonks/smart-contract-code-coverage-in-hardhat-d4a5ff6c9ba6) to a more extensive read on hardhat [coverage](https://github.com/Julius170/smart_contract_unit_tests_with_hardhat/edit/master/README.md#what-is-hardhat-coverage)***.
 
 
 Creating the Smart Contract
