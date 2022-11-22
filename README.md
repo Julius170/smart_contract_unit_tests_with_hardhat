@@ -11,7 +11,7 @@ Throughout this tutorial you’ll need to have worked with or have a basic knowl
 * HardHat: [Hardhat](https://hardhat.org/) is an Ethereum Development Environment that provides the needed tools to help in the creation, compiling, and deployment of smart contracts.
 * Solidity: [Solidity](https://docs.soliditylang.org/) is simply a high-level programming language that is used for creating smart contracts.
 * Javascript: This tutorial will make use of Javascript, therefore you should be familiar with basic Javascript coding and algorithms.
-* Requirements
+# Requirements
 This tutorial also aspects that you have the following already installed or available:
 [Node & node package management](https://nodejs.org/en/download/) `npm` or `yarn`: This tutorial will require you to use a preinstalled node package manager. You should also know about working with any package manager: `npm` or `yarn`.
 # Installing and setting up Hardhat
